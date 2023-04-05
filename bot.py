@@ -3,7 +3,7 @@ displayName = 'elpepe'
 compartmentId = 'ocid1.tenancy.oc1..aaaaaaaategzhsgtusxf5qvrs5yi6thdgankktxiu2csejczhi5liiujrypa'
 imageId = "ocid1.image.oc1.phx.aaaaaaaaturqunmn343dj4gixkdqc4ctxclp6gwjalkxhn7frfkvp5marhsa"
 subnetId = 'ocid1.subnet.oc1.phx.aaaaaaaa733jlt3nweo325rvuq3hnadzzvijowveysi6y34qoofpe53w4qia'
-ssh_authorized_keys = "ssh_authorized_keys":"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6nj+G++07gGoHEK6SiSE2h/XQWzjzBQ0Tf76Kb3XJDyYQBPTlNCNJKczfM1FukGBlvSpKG/rpvnrZXjuX5q2cdqY/NbIaBlhm/q9CbSUTU5mCvnGlsXs5tW/dZZURxmMnRSL2kxlET+a9FWxp1prHa3uSvgUB2gVrMmeGCCTrmh3Fv/q59LUoxm3s/ziQ+zIHmXY+os8p1wGZ4GgkyO/XsUZR4F5cJMZQ7tlmxukYaaWTxrniGCVVSR3ZRQFJUWVxowruT3aSVFa1oXQ9N2LyjQEMKjOD9/mJHmQ4eh6XGFNpl/xVv88Jo8NqhVNUtsVj/+ePZa1OAFgwGKZ0AdKR ssh-key-2023-04-05"
+ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6nj+G++07gGoHEK6SiSE2h/XQWzjzBQ0Tf76Kb3XJDyYQBPTlNCNJKczfM1FukGBlvSpKG/rpvnrZXjuX5q2cdqY/NbIaBlhm/q9CbSUTU5mCvnGlsXs5tW/dZZURxmMnRSL2kxlET+a9FWxp1prHa3uSvgUB2gVrMmeGCCTrmh3Fv/q59LUoxm3s/ziQ+zIHmXY+os8p1wGZ4GgkyO/XsUZR4F5cJMZQ7tlmxukYaaWTxrniGCVVSR3ZRQFJUWVxowruT3aSVFa1oXQ9N2LyjQEMKjOD9/mJHmQ4eh6XGFNpl/xVv88Jo8NqhVNUtsVj/+ePZa1OAFgwGKZ0AdKR ssh-key-2023-04-05"
 
 ocpus = 4
 memory_in_gbs = 24
